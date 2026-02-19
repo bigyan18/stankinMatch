@@ -1,0 +1,6 @@
+aiogram==3.*
+python-dotenv
+sentence-transformers
+torch
+numpy
+scikit-learn
